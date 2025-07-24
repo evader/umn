@@ -1,0 +1,1 @@
+Run `flutter create nebula_chat` to bootstrap full mobile app.

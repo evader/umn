@@ -1,0 +1,3 @@
+🎉 Launching NebulaChat — the all-in-one AI chat terminal and app.
+Supports OpenAI, Claude, Gemini, offline mode and plugins!
+👉 https://github.com/evader/umn #buildinpublic #ProductHunt

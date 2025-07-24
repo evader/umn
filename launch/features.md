@@ -1,0 +1,6 @@
+- 🧠 Chat with GPT-4, Claude, Gemini, or on-device LLMs
+- 🔌 Plugin tools: search, shell, PDF QA, web scrape, memory
+- ⚙️ Agent orchestration: LangChain-style flows
+- 🖥️ CLI, Web UI, Electron, Mobile & PWA ready
+- 🔐 Admin roles, API, Stripe billing integration
+- 🚀 Self-host or deploy to cloud (Render, Fly, Netlify)

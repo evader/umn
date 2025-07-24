@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head><title>NebulaChat</title></head>
+  <body>
+    <h3>NebulaChat</h3>
+    <button onclick="send()">Send to Chat</button>
+    <script>
+      function send() {
+        chrome.runtime.sendMessage({ action: "sendText" });
+      }
+    </script>
+  </body>
+</html>
