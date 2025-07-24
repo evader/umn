@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "NebulaChat Quick Prompt",
+  "version": "1.0",
+  "description": "Send selected text to NebulaChat",
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Built a multimodal chat terminal that supports Claude, OpenAI, Gemini, plugins, and offline use. Looking for feedback!

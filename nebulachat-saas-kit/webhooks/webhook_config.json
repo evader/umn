@@ -1,0 +1,10 @@
+{
+  "on_new_message": {
+    "url": "https://hooks.example.com/new_message",
+    "method": "POST",
+    "headers": {
+      "Authorization": "Bearer TOKEN"
+    },
+    "enabled": true
+  }
+}

@@ -1,0 +1,12 @@
+
+site_name: NebulaChat
+theme:
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+nav:
+  - Home: index.md
+  - Usage: USAGE.md
+  - Plugins: PLUGINS.md
+  - Billing: BILLING.md

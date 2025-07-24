@@ -1,0 +1,12 @@
+[
+  {
+    "name": "SQL Agent",
+    "script": "sql_tool.py",
+    "tier": "pro"
+  },
+  {
+    "name": "Shell Agent",
+    "script": "shell_tool.py",
+    "tier": "team"
+  }
+]

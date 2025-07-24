@@ -1,0 +1,10 @@
+
+free:
+  max_tokens: 300
+  features: ["basic_chat"]
+pro:
+  max_tokens: 2000
+  features: ["chat", "plugins", "history"]
+team:
+  max_tokens: 10000
+  features: ["chat", "plugins", "history", "multi-user"]

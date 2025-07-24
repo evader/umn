@@ -1,0 +1,10 @@
+
+name: nebula_chat
+description: NebulaChat AI CLI + GUI for Android/iOS
+version: 1.0.0+1
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^3.0.0
